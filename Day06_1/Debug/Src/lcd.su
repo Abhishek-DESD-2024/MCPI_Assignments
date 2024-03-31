@@ -1,0 +1,6 @@
+../Src/lcd.c:34:6:LcdWrite.constprop	4	static
+../Src/lcd.c:3:6:LcdBusyWait	0	static
+../Src/lcd.c:19:6:LcdWriteNibble	4	static
+../Src/lcd.c:34:6:LcdWrite	4	static
+../Src/lcd.c:45:6:LcdInit	16	static
+../Src/lcd.c:89:6:LcdPuts	32	static
