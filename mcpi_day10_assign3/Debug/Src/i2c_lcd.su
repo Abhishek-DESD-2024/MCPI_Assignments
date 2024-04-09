@@ -1,0 +1,5 @@
+../Inc/system_stm32f4xx.h:131:20:DelayMs	24	static
+../Src/i2c_lcd.c:9:6:LcdWriteByte	16	static
+../Src/i2c_lcd.c:16:6:LcdWrite	24	static
+../Src/i2c_lcd.c:29:5:LcdInit	16	static,ignoring_inline_asm
+../Src/i2c_lcd.c:75:6:LcdPuts	24	static
